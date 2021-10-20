@@ -1,0 +1,13 @@
+I am using Java programming language
+step 1:
+First creating class name
+step 2:
+creating Main Method
+step 3:
+creating an array with the refernce variable the values inside curly braces
+step 4:
+importing packages from util to sort an array, before the class
+step 5:
+sorting array with array the reference variable.
+step 6:
+finally printing the sorted arrays as string.
